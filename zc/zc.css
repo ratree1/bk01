@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+/*通用样式*/
+*{margin:0px;padding:0px;}
+html{height:100%; white-space:100%;}
+body{height:100%;
+     background:#FFF;}
+form{ line-height:1.5em;
+     text-align:left;}
+checkbox{background:#6C6;}
+hr{ border-top-color:#0C3; height:1px;}

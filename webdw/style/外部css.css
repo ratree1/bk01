@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px; padding:0px;}
+#bg-index{background:url(../images/%E8%AF%BE%E5%A0%82%E4%BD%9C%E4%B8%9A%E7%B4%A0%E6%9D%90/images/1401.jpg)
+          center center no-repeat;
+		  color:#FFF;}	  
+.content-index{width:453px;
+               padding:40px 40px 0px 60px;/*上右下左*/
+               height:257px;
+			   background:url(../images/%E8%AF%BE%E5%A0%82%E4%BD%9C%E4%B8%9A%E7%B4%A0%E6%9D%90/images/1402.png)
+			   no-repeat center center;
+			   margin:120px auto 0px auto;/*div的居中样式*/
+			   }
+he{font-family:"微软雅黑";
+   font-size:20px;}
+p{font-family:"微软雅黑";
+   font-size:14px;
+   margin-top:10px;}
+p.clj{ text-align:center;
+       padding-top:10px;}

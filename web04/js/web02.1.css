@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+hr{color:#03F;}
+#t1{width:100%;
+    border:1px solid #033;
+	border-collapse:collapse;
+    }
+th{color:#F00;}

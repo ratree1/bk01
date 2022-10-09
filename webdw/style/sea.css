@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.right{border-right:#FFF 1px solid; border-top:#FFF 1px solid;  margin-bottom:70px;}	  
+.left{border-left:#FFF 1px solid; border-top:#FFF 1px solid;margin-bottom:70px; }		  		  		  
+h1{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color:#60F; text-transform:uppercase; text-align:center; padding:10px 0px 0px 0px;}	
+.sea-left{width:80%; height:90%; float:left; }
+.sea-right{width:20%; 
+            height:90%;
+           float:right;  } 
+.sea-bottom{width:60%;
+               padding:0px 20% 0px 20%;/*上右下左*/
+               height:10%;}		 			  	   
+.r1{width:210px;
+    padding:20px 70px 0px 10px;/*上右下左*/
+    height:85px;
+	background-repeat:no-repeat;}	
+.r2{width:210px;
+    padding:20px 55px 0px 25px;/*上右下左*/
+    height:440px;
+	background-repeat:no-repeat;}
+.r3{width:210px;
+    padding:20px 70px 0px 10px;/*上右下左*/
+    height:85px;
+	background-repeat:no-repeat;}				   
+			
+.r4{width:210px;
+    padding:20px 70px 0px 10px;/*上右下左*/
+    height:85px;
+	background-repeat:no-repeat;}				

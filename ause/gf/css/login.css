@@ -1,0 +1,76 @@
+.big{
+    width: 600px;
+    height:400px;
+    margin:30px auto;
+    border-radius: 20px;
+    background-color: rgb(155, 144, 144,0.5);
+}
+.left img{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 300px;
+    height: 400px;
+    /* overflow: hidden; */
+}
+.right{
+    position: absolute;
+    float: right;
+    width: 250px;
+    height: 400px;
+    top:100px;
+    left:670px;
+    /* margin:0; */
+    
+}
+h2{
+    font-family: "楷体";
+    text-align: center;
+}
+input[type="text"], input[type="password"],input[type="tel"],input[type="email"] {
+    width: 93.4%;
+    margin-bottom: 20px;
+    padding: 10px;
+    float: left;
+    background-color: transparent;
+    border: none;
+    font-size: 15px;
+    border-bottom: 1px solid rgba(238, 238, 238, 0.41);
+    outline: none;
+    color: #FFF;
+}
+.send-button {
+    margin-bottom: 20px;
+}
+.tick li{
+    list-style: none;
+}
+.send-button input[type="submit"] {
+    width: 60%;
+    padding: 10px 0;
+    margin-left:50px;
+    margin-top:15px;
+    font-size: 16px;
+    font-weight: 100;
+    background-color: transparent;
+    color: rgb(96, 92, 92);
+    border: 1px solid rgba(113, 110, 110, 0.41);
+    border-width: thin;
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+}
+
+.send-button input[type="submit"]:hover {
+    background-color: rgb(59, 16, 16);
+    border: 1px solid #FFF;
+    color: #FFF;
+    text-decoration: none;
+    transition:0.5s all;
+}
+.right a {
+    color: rgb(110, 110, 110);
+}
+
+a:hover {
+    color: #FFF;
+}
